@@ -1,0 +1,7 @@
+User
+rService-Type = NAS-Prompt-User
+;
+Admin
+rService-Type = Administrative-User
+rCisco-AVPair = "shell:roles\"network-admin\""
+;
